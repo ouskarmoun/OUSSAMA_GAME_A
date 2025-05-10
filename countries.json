@@ -375,16 +375,7 @@
       "English"
     ]
   },
-  {
-    "name": "Northern Mariana Islands",
-    "flag": "https://flagcdn.com/w320/mp.png",
-    "capital": "Saipan",
-    "languages": [
-      "Carolinian",
-      "Chamorro",
-      "English"
-    ]
-  },
+
   {
     "name": "Papua New Guinea",
     "flag": "https://flagcdn.com/w320/pg.png",
@@ -1243,7 +1234,7 @@
   {
     "name": "Palestine",
     "flag": "https://flagcdn.com/w320/ps.png",
-    "capital": "Ramallah",
+    "capital": "Jerusalem,(القدس الحبيبة)",
     "languages": [
       "Arabic"
     ]
@@ -1296,31 +1287,8 @@
       "Danish"
     ]
   },
-  {
-    "name": "United States Minor Outlying Islands",
-    "flag": "https://flagcdn.com/w320/um.png",
-    "capital": "Washington DC",
-    "languages": [
-      "English"
-    ]
-  },
-  {
-    "name": "American Samoa",
-    "flag": "https://flagcdn.com/w320/as.png",
-    "capital": "Pago Pago",
-    "languages": [
-      "English",
-      "Samoan"
-    ]
-  },
-  {
-    "name": "Anguilla",
-    "flag": "https://flagcdn.com/w320/ai.png",
-    "capital": "The Valley",
-    "languages": [
-      "English"
-    ]
-  },
+
+ 
   {
     "name": "Philippines",
     "flag": "https://flagcdn.com/w320/ph.png",
@@ -1375,9 +1343,9 @@
     ]
   },
   {
-    "name": "Israel",
+    "name": "أحفاد الكلبة والخنازير",
     "flag": "https://flagcdn.com/w320/il.png",
-    "capital": "Jerusalem",
+    "capital": "جهنم خالدين فيها",
     "languages": [
       "Arabic",
       "Hebrew"
@@ -1850,16 +1818,7 @@
       "Kirundi"
     ]
   },
-  {
-    "name": "Western Sahara",
-    "flag": "https://flagcdn.com/w320/eh.png",
-    "capital": "El Aaiún",
-    "languages": [
-      "Berber",
-      "Hassaniya",
-      "Spanish"
-    ]
-  },
+ 
   {
     "name": "Mayotte",
     "flag": "https://flagcdn.com/w320/yt.png",
